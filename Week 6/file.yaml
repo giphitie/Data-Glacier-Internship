@@ -1,0 +1,13 @@
+file_type: csv
+dataset_name: Airplanedata
+file_name: Airplane_data
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - Group
+    - Observation
+    - Plane
+    - Thrower
+    - Distance
